@@ -1,4 +1,4 @@
-### Hi there! My name is Gian, or [The Hooded Techie](https://thehoodedtechie.com/main/) 👋
+### Hi there! My name is Gian 👋
 
 ## I'm a Data Analyst and aspiring Data Scientist & AI/ML Engineer!
 - 🐍 &nbsp; I primarily code in Python, but I also use JavaScript, SQL, and Swift
