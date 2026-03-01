@@ -1,8 +1,7 @@
 ### Hi there! My name is Gian 👋
 
-## I'm a Senior Data Analyst working in Finance  🤝!
-- 🐍 &nbsp; I primarily code in Python -- currently rebuilding my coding skills.
-- 🤖 &nbsp; I love problem solving -- and building "things" from scratch. 
-- 📚 &nbsp; I am currently exploring a career in Data Science, and transition into the Tech industry.
-- 🥅 &nbsp; My goal in 2024 is to build my portfolio and become more marketable in the tech-space.
-- 🍦 &nbsp; Fun Fact: I can never say no to cookies and cream (oreo) flavored treats.
+## I am a Strategic Partner (VP) working in Finance 🤝!
+- 🐍 &nbsp; Python is where it all started. Vibe coding is my new obsession.
+- 🤖 &nbsp; Solutions engineering is my forte. 
+- 📚 &nbsp; Learning to be a leader. Failing 99 times and standing once more. 
+- 🥅 &nbsp; My goal in 2026 is to use AI platforms to enhance my daily life.
